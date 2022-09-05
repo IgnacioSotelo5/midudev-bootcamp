@@ -43,7 +43,7 @@ const App = () => {
     excercises: 7
   },
   {
-    name: 'State of component',
+    name: 'State of component.',
     excercises: 14
   }
 ]
